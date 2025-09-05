@@ -9,7 +9,7 @@
 
 **Experience the future of Angular dynamic components with clean, declarative APIs**
 
-[🔥 Live Demo](https://angular-20-dynamic-demo.vercel.app) • [📖 Read Article](https://medium.com/@rogerlaa/angular-20-dynamic-components) • [⭐ Star on GitHub](https://github.com/rogeriolaa/angular-20-dynamic-demo)
+[🔥 Live Demo](https://rogeriolaa.github.io/angular-dynamic-components-bindings/) • [📖 Read Article](https://medium.com/javascript-in-plain-english/angular-20-how-dynamic-components-went-from-nightmare-to-dream-or-the-great-clean-up-of-2025-78d9df2f5a58) • [⭐ Star on GitHub](https://github.com/rogeriolaa/angular-dynamic-components-bindings)
 
 </div>
 
