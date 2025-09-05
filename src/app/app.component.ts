@@ -402,7 +402,7 @@ import { inputBinding, outputBinding, twoWayBinding } from '@angular/core';
             <i class="fab fa-github"></i>
           </span>
           <a
-            href="https://github.com/rogeriolaa/angular-20-dynamic-demo"
+            href="https://github.com/rogeriolaa/angular-dynamic-components-bindings"
             class="has-text-light"
           >
             View on GitHub
